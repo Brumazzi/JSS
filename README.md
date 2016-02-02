@@ -1,4 +1,4 @@
-#Hospedagem GitHub
+#Biblioteca JSS - Web Style Sheet
 
 #http://brumazzi.github.io
 
